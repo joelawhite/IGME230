@@ -33,8 +33,8 @@
 
 ## Screenshots
 
-![Character 1](media/char.png) 
-![Character 2](media/game1.png)
+![Character](media/ac60be1f6ec7292.png) 
+![Background](media/image.PNG)
 
 ## About the Dev
 
