@@ -28,10 +28,7 @@
 
 *   There will be a controls screen where the player can view and learn the controls
 
-*   Controls:
-*   WASD - move
-*   Space - Jump
-*   M,N - Attack
+*   Controls: WASD - Move, Space - Jump, M,N - Attack
 
 
 ## Screenshots
